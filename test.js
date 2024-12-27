@@ -177,7 +177,8 @@ function Emp(f_name,l_name){
 }
 const objects = new Emp('Anand', 'Maurya')
 
-console.log(objects)
+console.log(objects.first_name)
+
 
 // ================================================================================
 
